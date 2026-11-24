@@ -4,6 +4,8 @@ A small browser demo of TapMed's package-to-dose flow. A link from a simulated N
 
 ## Try it
 
+[Open the live demo](https://dev1625.github.io/tapmed-dose-log/) or run it locally.
+
 Use Node.js 20 or newer. The app has no runtime dependencies.
 
 ```sh
