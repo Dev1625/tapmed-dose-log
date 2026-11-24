@@ -18,6 +18,10 @@ node server.mjs
 
 Appending `#tap=morning`, `#tap=afternoon`, or `#tap=evening` to the app URL simulates a different package tag.
 
+## Frontend walkthrough
+
+[Trace an NFC tap and add a new dose](docs/frontend-walkthrough.md). The guide covers JavaScript events, browser storage, and offline caching.
+
 ## How it works
 
 - `app.js` handles the vanilla JavaScript UI and writes each event under its own browser storage key.
